@@ -31,7 +31,8 @@ Visual indication of the winner.
 
 1. Clone the repository to your local machine `git clone https://github.com/edududs/TicTacToe`
 2. Navigate to the project directory
-3. Run the game `python main.py`
+3. Install the dependencies `pip install -r requirements.txt`
+4. Run the game `python main.py`
 
 ## Contribuiting
 
