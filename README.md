@@ -8,6 +8,8 @@ This project is a simple implementation of the classic TicTacToe game. It allows
 
 ## Features
 
+![Screenshot](https://github.com/edududs/TicTacToe/blob/main/screenshots/TicTacToe%20Print.png)
+
 Simple graphical user interface using Pygame.
 Two-player gameplay.
 Visual indication of the winner.
